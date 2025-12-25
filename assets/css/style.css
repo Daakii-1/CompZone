@@ -616,8 +616,7 @@ hr
 .galerija-bg
 {
     margin-top: -1px;
-    background-image: url(../images/galerijabg.webp);
-    background-size: cover;
+    background-color: #1e304e;
     height: 100px;
     display: flex;
     justify-content: center;
