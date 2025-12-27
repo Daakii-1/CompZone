@@ -814,3 +814,6 @@ span:hover
 {
     color: #F4A43E;
 }
+.footer-bottom p{
+   font-size: 16px !important;
+}
