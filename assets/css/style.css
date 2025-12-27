@@ -551,9 +551,8 @@ button:hover
   grid-template-columns: repeat(2, 1fr);
   gap: 45px;
   margin: 50px 0;
-  width: 1300px;
   align-items: center;
-  margin-left: 70px;
+  place-content: center;
 }
 .zone-bg
 {
