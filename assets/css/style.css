@@ -310,13 +310,13 @@ background: #ff9f00;
 .kontakt-forma
 {
   background: #0b1d35;
-  padding: 40px;
+  padding: 30px;
   border-radius: 12px;
   margin-right: 100px;
+  margin-bottom: 50px;
   height: 400px;
-  width: auto;
-  margin-top: 150px;
   box-shadow: 0 0 15px 5px rgba(0,0,0,0.1);
+  width: 400px;
 }
 .kontakt-forma h2
 {
